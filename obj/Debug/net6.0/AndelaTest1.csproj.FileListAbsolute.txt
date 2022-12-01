@@ -1,0 +1,15 @@
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\bin\Debug\net6.0\AndelaTest1.exe
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\bin\Debug\net6.0\AndelaTest1.deps.json
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\bin\Debug\net6.0\AndelaTest1.runtimeconfig.json
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\bin\Debug\net6.0\AndelaTest1.dll
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\bin\Debug\net6.0\AndelaTest1.pdb
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\AndelaTest1.csproj.AssemblyReference.cache
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\AndelaTest1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\AndelaTest1.AssemblyInfoInputs.cache
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\AndelaTest1.AssemblyInfo.cs
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\AndelaTest1.csproj.CoreCompileInputs.cache
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\AndelaTest1.dll
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\refint\AndelaTest1.dll
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\AndelaTest1.pdb
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\AndelaTest1.genruntimeconfig.cache
+E:\Projects\CV\Andela\AndelaTest1\AndelaTest1\obj\Debug\net6.0\ref\AndelaTest1.dll
